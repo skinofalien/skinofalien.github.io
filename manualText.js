@@ -4,7 +4,7 @@ $ (document).ready(function(){
 });
 
 function texto(); {
-  var innetText = "Hola";
+  var innerText = "Hola";
   document.getElementById('textoAmbientacion').innerHTML += innerText;
 
 
